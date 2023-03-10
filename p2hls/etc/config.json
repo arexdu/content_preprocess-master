@@ -1,0 +1,7 @@
+{
+	"Port": 8008,
+	"Host": "192.168.211.128",
+        "CallBack" : "http://127.0.0.1:8008",
+	"Parse2hlsPath": "/opt/fonsview/NE/parse2hls/bin/parse2hls",
+	"Parse2HlsParam": "-f 2 "
+}
